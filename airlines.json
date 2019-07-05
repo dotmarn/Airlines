@@ -1,0 +1,97 @@
+[
+  {
+    "iata": "ZY",
+    "name": "ADA Air",
+    "logo": "flags/ada-air.gif"
+  },
+  {
+    "iata": "KI",
+    "name": "ADAM Air",
+    "logo": "flags/adam-air.jpg"
+  },
+  {
+    "iata": "Z7",
+    "name": "ADC AIRLINES",
+    "logo": "flags/adc-airlines.gif"
+  },
+  {
+    "iata": "JP",
+    "name": "ADRIA AIRWAYS",
+    "logo": "flags/adria-airways.gif"
+  },
+  {
+    "iata": "A3",
+    "name": "AEGEAN AIRLINES",
+    "logo": "flags/aegean-airlines.jpg"
+  },
+  {
+    "iata": "RE",
+    "name": "AER ARANN AIRLINES",
+    "logo": "flags/aer-arann.jpg"
+  },
+  {
+    "iata": "EI",
+    "name": "AER LINGUS AIRLINES",
+    "logo": "flags/aer-lingus.jpg"
+  },
+  {
+    "iata": "EE",
+    "name": "AERO AIRLINES",
+    "logo": "flags/aero-airlines.gif"
+  },
+  {
+    "iata": "E4",
+    "name": "AERO ASIA INTERNATIONAL",
+    "logo": "flags/aero-asia.gif"
+  },
+  {
+    "iata": "EM",
+    "name": "AERO BENIN",
+    "logo": "flags/aero-benin.jpg"
+  },
+  {
+    "iata": "JR",
+    "name": "AERO CALIFORNIA",
+    "logo": "flags/aero-california.gif"
+  },
+  {
+    "iata": "Q6",
+    "name": "AERO CONDOR",
+    "logo": "flags/aero-condor.gif"
+  },
+  {
+    "iata": "GV",
+    "name": "AERO FLIGHT",
+    "logo": "flags/aero-flight.gif"
+  },
+  {
+    "iata": "QL",
+    "name": "AERO LANKA",
+    "logo": "flags/lankan_cargo.jpg"
+  },
+  {
+    "iata": "P4",
+    "name": "AERO LINEAS SOSA",
+    "logo": "flags/aero-lineas-sosa.gif"
+  },
+  {
+    "iata": "M0",
+    "name": "AERO MONGOLIA",
+    "logo": "flags/aero-mongolia.gif"
+  },
+  {
+    "iata": "BF",
+    "name": "AERO SERVICE",
+    "logo": "flags/aero-service.png"
+  },
+  {
+    "iata": "7L",
+    "name": "AERO CARIBBEAN",
+    "logo": "flags/aerocaribbean.gif"
+  },
+  {
+    "iata": "7L",
+    "name": "AERO CARIBBEAN",
+    "logo": "flags/aerocaribbean.gif"
+  }
+]
