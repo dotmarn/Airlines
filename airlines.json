@@ -24,12 +24,6 @@
     "logo": "https://images.kiwi.com/airlines/64/SR.png"
   },
   {
-    "id": "LONGTEST",
-    "lcc": "0",
-    "name": "Long iata code test",
-    "logo": "https://images.kiwi.com/airlines/64/LONGTEST.png"
-  },
-  {
     "id": "SAGALES",
     "lcc": "None",
     "name": "Sagales",
