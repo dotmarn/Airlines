@@ -1694,12 +1694,6 @@
     "logo": "https://images.kiwi.com/airlines/64/WN.png"
   },
   {
-    "iata": "NK",
-    "lcc": "1",
-    "name": "Spirit Airlines",
-    "logo": "https://images.kiwi.com/airlines/64/NK.png"
-  },
-  {
     "iata": "A3",
     "lcc": "1",
     "name": "Aegean",
